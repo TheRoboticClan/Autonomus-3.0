@@ -1,7 +1,7 @@
 Vehicle Photos
 ==
 
-This directory encompass our differents angles of the robot, Now icluding a cellphone
+This directory encompass our differents angles of the robot, Now including a cell phone.
 
 Front Side
 ==
