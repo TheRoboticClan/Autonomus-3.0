@@ -1,7 +1,7 @@
 Vehicle Photos
 ==
 
-This directory encompass our differents angles of the robot, Now including the new ultrasonic sensor, icluding a cellpgone
+This directory encompass our differents angles of the robot, Now including the new ultrasonic sensor, icluding a cellphone
 
 Front Side
 ==
