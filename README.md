@@ -37,4 +37,4 @@ We use the following components:
 
 - **Servomotor**: where the ultrasonic sensor are placed to locate the traffic lights and have a broader view.
 
-- **One ultrasonics sensors (HC-SR04)**: To determine the distance between the robot and the wall.
+- **One ultrasonics sensor (HC-SR04)**: To determine the distance between the robot and the wall.
