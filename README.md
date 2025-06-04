@@ -31,12 +31,10 @@ To drive the motor we decided to build a drive shaft ourselves using some tires 
 Energy and sensor management
 ==
 
-We use two rechargeable lithium batteries. The cell with the two batteries is connected to the drvier motor which directs the power to the motor, the arduino UNO and the sensor shield.
+We use two rechargeable lithium batteries. The cell with the two batteries is connected to the drivier motor which directs the power to the motor, the arduino UNO and the sensor shield.
 
 We use the following components:
 
-- **Servomotor**: where the color sensor and the ultrasonic sensor are placed to locate the traffic lights and have a broader view.
+- **Servomotor**: where the ultrasonic sensor are placed to locate the traffic lights and have a broader view.
 
-- **A color sensor (TCS3200)**: to identify the color of the traffic signs and based on that the car make a decision.
-
-- **Two ultrasonics sensors (HC-SR04)**: one to locate the distance between the traffic signs and the robot and another to determine the distance between the robot and the wall.
+- **One ultrasonics sensors (HC-SR04)**: To determine the distance between the robot and the wall.
