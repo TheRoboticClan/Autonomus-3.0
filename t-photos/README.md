@@ -11,4 +11,4 @@ Official Photo
 Funny Photo
 ==
 
-![])
+![](  )
