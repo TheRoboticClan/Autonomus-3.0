@@ -34,6 +34,7 @@ Energy and sensor management
 
 ----
 
+
 We use two rechargeable lithium batteries. The cell with the two batteries is connected to the drivier motor which directs the power to the motor, the arduino UNO and the sensor shield.
 
 We use the following components:
