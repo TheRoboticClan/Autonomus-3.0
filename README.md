@@ -31,7 +31,7 @@ To drive the motor we decided to build a drive shaft ourselves using some tires 
 Energy and sensor management
 
  ## Robot Track Practice
-![Practice1]()
+![Practice1](https://youtu.be/11CiMEGIM24)
 
 [Video/practice.mp4](https://www.youtube.com/watch?v=11CiMEGIM24)
 ==
