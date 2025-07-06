@@ -30,9 +30,9 @@ To drive the motor we decided to build a drive shaft ourselves using some tires 
 
 Energy and sensor management
 
-[Video/practice.mp4]()
+[Video/practice.mp4](https://www.youtube.com/watch?v=11CiMEGIM24)
 
-==
+----
 
 We use two rechargeable lithium batteries. The cell with the two batteries is connected to the drivier motor which directs the power to the motor, the arduino UNO and the sensor shield.
 
