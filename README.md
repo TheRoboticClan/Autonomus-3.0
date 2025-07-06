@@ -30,7 +30,7 @@ To drive the motor we decided to build a drive shaft ourselves using some tires 
 
 Energy and sensor management
 
-![Practice1](https://youtu.be/11CiMEGIM24)
+![Practice1](https://github.com/TheRoboticClan/Autonomus-3.0/blob/main/video/Video.md)
 ==
 
 We use two rechargeable lithium batteries. The cell with the two batteries is connected to the drivier motor which directs the power to the motor, the arduino UNO and the sensor shield.
