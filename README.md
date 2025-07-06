@@ -30,7 +30,7 @@ To drive the motor we decided to build a drive shaft ourselves using some tires 
 
 Energy and sensor management
 
-[Video/practice.mp4](https://youtube.com/shorts/UFMvW3aFJpc?feature=share)
+[Video/practice.mp4]()
 
 ==
 
