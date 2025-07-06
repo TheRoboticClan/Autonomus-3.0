@@ -30,11 +30,9 @@ To drive the motor we decided to build a drive shaft ourselves using some tires 
 
 Energy and sensor management
 
- ## Robot Track Practice
-![Practice1](https://youtu.be/11CiMEGIM24)
-
-[Video/practice.mp4](https://www.youtube.com/watch?v=11CiMEGIM24)
-==
+ ## Video Practice
+![Demo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV5cWZjbjhjNWFvbmdjMHAyeHJzN2htMjd0OGl5M290N25vNmMxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oVvn6cks6ojeHv3G0H/giphy.gif)
+----
 
 We use two rechargeable lithium batteries. The cell with the two batteries is connected to the drivier motor which directs the power to the motor, the arduino UNO and the sensor shield.
 
