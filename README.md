@@ -29,7 +29,6 @@ To move the robot we used, from a driving axis of a remote control car that we h
 To drive the motor we decided to build a drive shaft ourselves using some tires from the Obstacle Avoidance Smart Car kit, some sweet wire, popsicle sticks, and a couple of cable clips. In order to direct the driving axis we use a servo motor that is connected to the Sensor Shield.
 
 Energy and sensor management
-
 [Video/practice.mp4](https://www.youtube.com/watch?v=11CiMEGIM24)
 
 ----
