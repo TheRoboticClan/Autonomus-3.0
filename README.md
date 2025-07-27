@@ -2,7 +2,7 @@ The Robotic Clan
 ==
 ### Welcome! ###
 
-*Our team is made up of: Moisés Palacio, Nathan Jolly and Antonio Pérez.*
+*Our team is made up of: Nathan Jolly, Moisés Palacio and Antonio Pérez.*
 
 ![](https://github.com/TheRoboticClan/Autonomus-3.0/blob/main/t-photos/Photo%20Official.jpg)
 
