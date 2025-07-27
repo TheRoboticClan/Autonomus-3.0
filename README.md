@@ -14,7 +14,7 @@ Together we developed a robot car that drives autonomously. It uses:
 
 ---
 
-## 📁 Repository Content
+## Repository Content
 
 - **[`schemes/`](schemes)** – Contains a schematic diagram (PNG) showing how all electronic components and motors are connected.
 
@@ -28,17 +28,17 @@ Together we developed a robot car that drives autonomously. It uses:
 
 ---
 
-## 🚗 Mobility Management
+## Mobility Management
 
 Our robot is based on a commercial remote-control (RC) car, modified to run autonomously.
 
-### 🔧 Steering and Propulsion
+### Steering and Propulsion
 
 - **DC motor 1** – Drives the rear wheels (propulsion)
 - **DC motor 2** – Controls the front wheels (steering)
 - Controlled using an **Arduino UNO** and an **L298P motor driver**, chosen for its simplicity and compatibility with two motors
 
-### 🧠 Motor Selection and Integration
+### Motor Selection and Integration
 
 DC motors were selected for:
 - Ease of integration
@@ -47,19 +47,19 @@ DC motors were selected for:
 
 One motor delivers torque for motion; the other enables accurate steering.
 
-### 🛠️ Chassis and Components
+### Chassis and Components
 
 - Chassis: Durable plastic, reused from the RC car
 - Components (Arduino board, motor driver, sensors): Taken from **Kit KS0428**
 - No CAD or 3D-printed parts used; everything was mounted manually for balance and durability
 
-### 📐 Engineering Concepts Applied
+### Engineering Concepts Applied
 
 - **Torque** – Rear motor chosen for enough driving force
 - **Control** – Balanced speed and steering to maintain precision
 - **Weight Distribution** – Components were strategically placed to avoid imbalance
 
-### 🔄 Construction Insights
+### Construction Insights
 
 Adapting a commercial RC chassis for autonomy brought challenges in fitting and wiring new components. In future versions, we plan to:
 - Add encoders for better motor feedback
@@ -68,13 +68,13 @@ Adapting a commercial RC chassis for autonomy brought challenges in fitting and 
 
 ---
 
-## 🔋 Energy & Sensor Management
+## Energy & Sensor Management
 
-### 🔌 Power Supply
+### Power Supply
 
 Powered by **rechargeable lithium batteries** to ensure steady voltage and long operation time.
 
-### 📡 Sensors
+### Sensors
 
 - **Two ultrasonic sensors** – Detect track boundaries:
   - One for outer walls
@@ -82,7 +82,7 @@ Powered by **rechargeable lithium batteries** to ensure steady voltage and long 
 
 - **Smartphone camera** – Detects **colored blocks** on the track. The robot reacts based on detected colors.
 
-### 🔗 Connections and Integration
+### Connections and Integration
 
 - **Arduino Uno** – The core microcontroller
 - **Sensor shield** – Makes wiring easier and cleaner
@@ -90,7 +90,7 @@ Powered by **rechargeable lithium batteries** to ensure steady voltage and long 
 - **Motor driver** – Linked to both the motors and Arduino
 - **OTG cable** – Connects the smartphone to the Arduino for vision input
 
-### 📊 Wiring Diagram Includes:
+### Wiring Diagram Includes:
 
 - Ultrasonic sensors → sensor shield  
 - Motor driver → motors + Arduino  
@@ -98,10 +98,3 @@ Powered by **rechargeable lithium batteries** to ensure steady voltage and long 
 - OTG connection → smartphone to Arduino  
 
 ---
-
-## ✅ Summary
-
-This setup provides:
-- Autonomous navigation  
-- Real-time decision-making based on camera input  
-- Stable and adaptable hardware for competition and further development
