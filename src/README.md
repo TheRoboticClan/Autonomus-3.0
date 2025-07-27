@@ -4,7 +4,7 @@ This folder (`/src`) contains the control software for the autonomous vehicle, d
 
 ---
 
-## 1. `autonomousfree.ino` — Obstacle Avoidance Logic
+## 1. `autonomous_free.ino` — Obstacle Avoidance Logic
 
 This Arduino sketch is designed for the **open round** of the competition. It controls the robot car using:
 
