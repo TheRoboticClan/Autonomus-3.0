@@ -38,11 +38,11 @@ The chassis is made of durable plastic and comes from the original remote-contro
 
 Several engineering concepts were applied to improve performance:
 
-Torque: Ensured the rear motor could generate enough force to move the car efficiently.
+***Torque:*** Ensured the rear motor could generate enough force to move the car efficiently.
 
-Speed and control: Balancing speed with control was essential to maintain accurate steering.
+***Speed and control:*** Balancing speed with control was essential to maintain accurate steering.
 
-Weight distribution: The placement of components was planned to avoid imbalance between the front (steering) and rear (driving) sections.
+***Weight distribution:*** The placement of components was planned to avoid imbalance between the front (steering) and rear (driving) sections.
 
 
 **Construction and Components**
@@ -67,15 +67,15 @@ We use an Arduino Uno as the microcontroller, with a sensor shield mounted on to
 
 The motors are connected through a motor driver, which is also connected to the Arduino. The smartphone is connected to the Arduino via an OTG (On-The-Go) cable, allowing it to send camera input to the microcontroller.
 
-A wiring diagram would include:
+***A wiring diagram would include:***
 
-Ultrasonic sensors wired to the sensor shield
+_ Ultrasonic sensors wired to the sensor shield
 
-Motor driver connected to the motors and Arduino Uno
+_ Motor driver connected to the motors and Arduino Uno
 
-Power lines from lithium batteries to Arduino and motor driver
+_ Power lines from lithium batteries to Arduino and motor driver
 
-OTG cable linking the smartphone to the Arduino
+_ OTG cable linking the smartphone to the Arduino
 
 
 This configuration ensures reliable power delivery and efficient sensor integration, enabling autonomous navigation and decision-making based on real-time data.
