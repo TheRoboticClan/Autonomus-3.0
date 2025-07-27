@@ -1,6 +1,6 @@
 The Robotic Clan
 ==
-#Welcome!#
+# Welcome! #
 
 *Our team is made up of: Nathan Jolly, Moisés Palacio and Antonio Pérez.*
 
