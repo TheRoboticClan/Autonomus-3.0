@@ -8,12 +8,12 @@ The Robotic Clan
 
 *Together we developed a robot car that can drive autonomously. We use two motors, one for the rear wheels and one for the steering axle. An ultrasonic sensor to detect obstacles and a cell phone to spot all the obstacles. We use the Arduino Uno microcontroller for our project.*
 
-#Content#
+Content
 ==
 > 
 - **schemes**: contains a schematic diagram in PNG format of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they are connected to each other.
 
-- **src**: contains code of control software for all components which were programmed to participate in the competition.
+- [src](path:src): contains code of control software for all components which were programmed to participate in the competition.
 
 - **t-photos**: contains 2 photos of the team (an official one and one funny photo with all team members).
 
