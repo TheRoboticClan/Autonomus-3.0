@@ -11,9 +11,9 @@ The Robotic Clan
 Content
 ==
 > 
-- **schemes**: contains a schematic diagram in PNG format of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they are connected to each other.
+- **[schemes](schemes)**: contains a schematic diagram in PNG format of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they are connected to each other.
 
-- [src](src): contains code of control software for all components which were programmed to participate in the competition.
+- **[src](src)**: contains code of control software for all components which were programmed to participate in the competition.
 
 - **t-photos**: contains 2 photos of the team (an official one and one funny photo with all team members).
 
