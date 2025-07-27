@@ -5,12 +5,6 @@ BEGIN
   DEFINE constants for ultrasonic sensor TRIG and ECHO pins
   DEFINE constant for servo control pin
 
-  INITIALIZE servo
-  SET initial servo position to 90 degrees
-  SET initial lap count to 0
-  SET driving speed (PWM value)
-  DEFINE max number of laps and distance threshold for movement
-
   FUNCTION measureDistance():
     Trigger the ultrasonic sensor
     Measure the duration of the echo signal
