@@ -59,23 +59,23 @@ Energy and sensor management
 
 Our vehicle is powered by rechargeable lithium batteries, chosen for their efficiency and ability to deliver consistent power throughout the operation.
 
-The vehicle uses two ultrasonic sensors and a smartphone as a camera. The ultrasonic sensors are used to detect track walls: one detects the outer walls, and the other detects the inner walls. This helps the vehicle navigate and stay within the boundaries.
+The vehicle uses ***two ultrasonic sensors*** and a smartphone as a camera. The ultrasonic sensors are used to detect track walls: one detects the outer walls, and the other detects the inner walls. This helps the vehicle navigate and stay within the boundaries.
 
-The smartphone camera is used to detect the color of blocks on the track. Based on the color recognized, the vehicle performs specific actions. This allows it to interact intelligently with its environment.
+***The smartphone camera*** is used to detect the color of blocks on the track. Based on the color recognized, the vehicle performs specific actions. This allows it to interact intelligently with its environment.
 
-We use an Arduino Uno as the microcontroller, with a sensor shield mounted on top. This shield simplifies connections to the ultrasonic sensors and other components. The sensors are connected to the digital pins of the shield using jumper wires.
+We use an ***Arduino Uno as the microcontroller***, with a sensor shield mounted on top. This shield simplifies connections to the ultrasonic sensors and other components. The sensors are connected to the digital pins of the shield using jumper wires.
 
 The motors are connected through a motor driver, which is also connected to the Arduino. The smartphone is connected to the Arduino via an OTG (On-The-Go) cable, allowing it to send camera input to the microcontroller.
 
 ***A wiring diagram would include:***
 
-_ Ultrasonic sensors wired to the sensor shield
+- Ultrasonic sensors wired to the sensor shield
 
-_ Motor driver connected to the motors and Arduino Uno
+- Motor driver connected to the motors and Arduino Uno
 
-_ Power lines from lithium batteries to Arduino and motor driver
+- Power lines from lithium batteries to Arduino and motor driver
 
-_ OTG cable linking the smartphone to the Arduino
+- OTG cable linking the smartphone to the Arduino
 
 
 This configuration ensures reliable power delivery and efficient sensor integration, enabling autonomous navigation and decision-making based on real-time data.
