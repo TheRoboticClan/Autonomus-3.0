@@ -2,7 +2,9 @@ The Robotic Clan
 ==
 ### Welcome! ###
 
-*Our team: Moisés Palacio, Nathan Jolly and Antonio Pérez.*
+*Our team is made up of: Moisés Palacio, Nathan Jolly and Antonio Pérez.*
+
+![](https://github.com/TheRoboticClan/Autonomus-3.0/blob/main/t-photos/Photo%20Official.jpg)
 
 *Together we developed a robot car that can drive autonomously. We use two motors, one for the rear wheels and one for the steering axle. An ultrasonic sensor to detect obstacles and a cell phone to spot all the obstacles. We use the Arduino Uno microcontroller for our project.*
 
