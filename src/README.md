@@ -22,7 +22,7 @@ This Arduino sketch is designed for the **open round** of the competition. It co
 
 ---
 
-## 2. `obstacle.ino` — Color-Based Navigation
+## 2. `obstacles.ino` — Color-Based Navigation
 
 This Arduino sketch is used during the **second round**, where the car's direction is based on color recognition:
 
@@ -38,7 +38,7 @@ This Arduino sketch is used during the **second round**, where the car's directi
 
 ---
 
-## `detect_color.py` — Python Script for Smartphone
+## `camera.py` — Python Script for Smartphone
 
 This Python script (not included here but referenced) should run in **Termux** on Android:
 
@@ -63,5 +63,5 @@ This Python script (not included here but referenced) should run in **Termux** o
 
 | File Name         | Purpose                                 |
 |-------------------|------------------------------------------|
-| `autonomusfree.ino`  | Autonomous navigation using distance     |
-| `obstacle.ino` | Color-based decision control via serial  |
+| `autonomus_free.ino`  | Autonomous navigation using distance     |
+| `obstacles.ino` | Color-based decision control via serial  |
