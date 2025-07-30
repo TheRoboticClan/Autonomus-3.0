@@ -6,7 +6,7 @@ This directory encompass our differents angles of the robot, Now including a cel
 Front Side
 ==
 
-![]()
+![Front side of tht car](./img/Front_side.jpg)
 
 Left Side
 ==
