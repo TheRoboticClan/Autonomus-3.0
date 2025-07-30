@@ -1,34 +1,21 @@
-Vehicle Photos
-==
+## Vehicle Photos
 
-This directory encompass our differents angles of the robot, Now including a cell phone.
+This directory encompasses our different angles of the robot, now including a cell phone.
 
-Front Side
-==
+### Front Side
+![Front side of the car](./Front side.jpg)
 
-![Front side of the car](./img/Front side.jpg)
+### Left Side
+![Left side of the car](./Left side.jpg)
 
-Left Side
-==
+### Right Side
+![Right side of the car](./Right side.jpg)
 
-![]()
+### Top Side
+![Top side of the car](./Top side.jpg)
 
-Right Side
-==
+### Bottom Side
+![Bottom side of the car](./Bottom side.jpg)
 
-![]()
-
-Top Side
-==
-
-![]()
-
-Bottom Side
-==
-
-![]()
-
-Back Side
-==
-
-![]()
+### Back Side
+![Back side of the car](./back side.jpg)
