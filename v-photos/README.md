@@ -3,19 +3,19 @@
 This directory encompasses our different angles of the robot, now including a cell phone.
 
 ### Front Side
-
+![Front side of the car](./Front%20side.jpg)
 
 ### Left Side
 ![Left side of the car](./Left%20side.jpg)
 
 ### Right Side
-![Right side of the car](./Right side.jpg)
+![Right side of the car](./Right%20side.jpg)
 
 ### Top Side
-![Top side of the car](./Top side.jpg)
+![Top side of the car](./Top%20side.jpg)
 
 ### Bottom Side
-![Bottom side of the car](./Bottom_side.jpg)
+![Bottom side of the car](./Bottom%20side.jpg)
 
 ### Back Side
-![Back side of the car](./back side.jpg)
+![Back side of the car](./back%20side.jpg)
