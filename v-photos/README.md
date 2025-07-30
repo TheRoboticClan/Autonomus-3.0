@@ -1,6 +1,6 @@
 ## Vehicle Photos
 
-This directory encompasses our different angles of the robot, now including a cell phone.
+This directory encompasses the different angles of our robot.
 
 ### Front Side
 ![Front side of the car](./Front%20side.jpg)
