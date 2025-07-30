@@ -15,7 +15,7 @@ This directory encompasses our different angles of the robot, now including a ce
 ![Top side of the car](./Top side.jpg)
 
 ### Bottom Side
-![Bottom side of the car](./Bottom side.jpg)
+![Bottom side of the car](./Bottom_side.jpg)
 
 ### Back Side
 ![Back side of the car](./back side.jpg)
